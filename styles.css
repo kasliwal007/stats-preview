@@ -6,11 +6,11 @@ flex-direction: column;
 flex-wrap: wrap;
 justify-content: center;
 align-items: center;
-height: 100vh;
+
 }
 
 .Main-container {
-
+margin-top:150px;
   display: flex;
   flex-wrap: wrap;
 
